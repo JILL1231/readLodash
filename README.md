@@ -2,8 +2,8 @@
 
 最近工作之余学习了[Lodash](https://github.com/lodash/lodash)的源码，准备写成一个专题和大家一起分享分享，若有错误的地方，可以给我Issues,大家一起学习，希望对你有帮助
 
-##目录
-Array
+## 目录
+### Array
 
 * [slice.js](https://github.com/JILL1231/readLodash/blob/master/Array/slice.js
 ) : 裁剪数组array，从 start 位置开始到end结束，但不包括 end 本身的位置
@@ -40,3 +40,8 @@ Array
     
 * [findLastIndex.js](https://github.com/JILL1231/readLodash/blob/master/Array/findLastIndex.js
 ) : 这个方式类似 _.findIndex， 区别是它是从右到左的迭代集合array中的元素
+
+### Lang
+
+* [isNull.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isNull.js
+) : 检查 value 是否是 null
