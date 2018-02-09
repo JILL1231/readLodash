@@ -47,4 +47,7 @@
 ) : 检查 value 是否是 null
 
 * [isUndefined.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isUndefined.js
-) : 检查 value 是否是 isUndefined
+) : 检查 value 是否是 Undefined
+
+* [isObject.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isObject.js
+) : 检查 value 是否是 Object
