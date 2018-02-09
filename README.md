@@ -5,4 +5,6 @@
 ##目录
 Array
 
-* [slice.js](https://github.com/JILL1231/readLodash/blob/master/slice.js)
+* [slice.js](https://github.com/JILL1231/readLodash/blob/master/Array/slice.js
+) : 裁剪数组array，从 start 位置开始到end结束，但不包括 end 本身的位置
+

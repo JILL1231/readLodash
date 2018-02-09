@@ -14,7 +14,7 @@
  */
 
 /*
- * 该函数接收三个参数
+ * 裁剪数组array，从 start 位置开始到end结束，但不包括 end 本身的位置
  * @param {Array} 数组，可以是元素的节点集合
  * @param {number} [start=0] 开始截取切片的位置，默认0
  * @param {number} [end=array.length] 切片截取的截至位置，但是不包含这个数所在位置的元素。默认为数组的长度
