@@ -13,3 +13,7 @@ Array
 
 * [compact.js](https://github.com/JILL1231/readLodash/blob/master/Array/compact.js
 ) : compact函数创建一个移除了所有假值的数组。例如：false、null、 0、""、undefined， 以及NaN 都是 “假值”
+
+* [drop.js](https://github.com/JILL1231/readLodash/blob/master/Array/drop.js
+) : 裁剪数组中的前 N 个数组，返回剩余的部分
+
