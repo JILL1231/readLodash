@@ -17,3 +17,5 @@ Array
 * [drop.js](https://github.com/JILL1231/readLodash/blob/master/Array/drop.js
 ) : 裁剪数组中的前 N 个数组，返回剩余的部分
 
+* [dropRight.js](https://github.com/JILL1231/readLodash/blob/master/Array/dropRight.js
+) : 从右边开始裁剪数组中的 N 个数组，返回剩余的部分
