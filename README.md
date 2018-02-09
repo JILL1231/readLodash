@@ -20,6 +20,12 @@ Array
 * [dropRight.js](https://github.com/JILL1231/readLodash/blob/master/Array/dropRight.js
 ) : 从右边开始裁剪数组中的 N 个数组，返回剩余的部分
 
+* [take.js](https://github.com/JILL1231/readLodash/blob/master/Array/take.js
+) : 创建一个数组切片，从array数组的起始元素开始提取n个元素
+
+* [takeRight.js](https://github.com/JILL1231/readLodash/blob/master/Array/takeRight.js
+) : 创建一个数组切片，从array数组的最后一个元素开始提取n个元素
+
 * [baseWhile.js](https://github.com/JILL1231/readLodash/blob/master/.internal/baseWhile.js
 ) :baseWhile函数是`dropWhile`、`dropRightWhile` 和 `takeWhile` 、`takeRightWhile`这四个函数的基本实现方法 
 
