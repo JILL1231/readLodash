@@ -8,3 +8,5 @@ Array
 * [slice.js](https://github.com/JILL1231/readLodash/blob/master/Array/slice.js
 ) : 裁剪数组array，从 start 位置开始到end结束，但不包括 end 本身的位置
 
+* [chunk.js](https://github.com/JILL1231/readLodash/blob/master/Array/chunk.js
+) : 将数组拆分成多个 size 长度的块，并组成一个新数组。 如果数组无法被分割成全部等长的块，那么最后剩余的元素将组成一个块。
