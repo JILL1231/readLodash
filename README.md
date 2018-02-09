@@ -19,3 +19,18 @@ Array
 
 * [dropRight.js](https://github.com/JILL1231/readLodash/blob/master/Array/dropRight.js
 ) : 从右边开始裁剪数组中的 N 个数组，返回剩余的部分
+
+* [baseWhile.js](https://github.com/JILL1231/readLodash/blob/master/.internal/baseWhile.js
+) :baseWhile函数是`dropWhile`、`dropRightWhile` 和 `takeWhile` 、`takeRightWhile`这四个函数的基本实现方法 
+
+* [dropWhile.js](https://github.com/JILL1231/readLodash/blob/master/Array/dropWhile.js
+) : 裁剪数组，起点从 predicate 返回假值开始。predicate 会传入3个参数：(value, index, array)
+
+* [dropRightWhile.js](https://github.com/JILL1231/readLodash/blob/master/Array/dropRightWhile.js
+) : 从右边开始裁剪数组，起点从 predicate 返回假值开始。predicate 会传入3个参数：(value, index, array)
+
+* [takeWhile.js](https://github.com/JILL1231/readLodash/blob/master/Array/takeWhile.js
+) : 从数组的开始提取数组，直到 predicate 返回假值。predicate 会传入三个参数：(value, index, array)
+
+* [takeRightWhile.js](https://github.com/JILL1231/readLodash/blob/master/Array/takeRightWhile.js
+) : 从数组的最右边开始提取数组，直到 predicate 返回假值。predicate 会传入三个参数：(value, index, array)
