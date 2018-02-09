@@ -34,3 +34,9 @@ Array
 
 * [takeRightWhile.js](https://github.com/JILL1231/readLodash/blob/master/Array/takeRightWhile.js
 ) : 从数组的最右边开始提取数组，直到 predicate 返回假值。predicate 会传入三个参数：(value, index, array)
+
+* [findIndex.js](https://github.com/JILL1231/readLodash/blob/master/Array/findIndex.js
+) : 该方法类似_.find，区别是该方法返回第一个通过 predicate 判断为真值的元素的索引值（index），而不是元素本身
+    
+* [findLastIndex.js](https://github.com/JILL1231/readLodash/blob/master/Array/findLastIndex.js
+) : 这个方式类似 _.findIndex， 区别是它是从右到左的迭代集合array中的元素
