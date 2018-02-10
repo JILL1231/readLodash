@@ -1,5 +1,6 @@
 .DS_Store
+.idea/
 *.log*
 doc/*.html
 node_modules
-.idea/
+
