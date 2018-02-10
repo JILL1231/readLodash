@@ -53,4 +53,10 @@
 ) : 检查 value 是否是 null
 
 * [isUndefined.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isUndefined.js
-) : 检查 value 是否是 isUndefined
+) : 检查 value 是否是 Undefined
+
+* [isObject.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isObject.js
+) : 检查 value 是否是 Object
+
+* [isObjectLike.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isObjectLike.js
+) : 检查 value 是否是 类对象。 如果一个值是类对象，那么它不应该是 null，而且 typeof 后的结果是 "object"
