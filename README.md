@@ -2,7 +2,36 @@
 
 最近工作之余学习了[Lodash](https://github.com/lodash/lodash)的源码，准备写成一个专题和大家一起分享分享，若有错误的地方，可以给我Issues,大家一起学习，希望对你有帮助
 
-## 目录
+## 项目目录说明
+
+* lodash : 源码master分支
+
+* MD : 代码解析后闲谈或思考的文章集，以下是具体的代码解析
+
+* .internal : .internal模块
+
+* Array : 数组模块
+
+* Collection : 集合模块
+
+* Date : 日期模块
+
+* Function : 函数模块
+
+* Lang : 数据类型模块
+
+* Math : 数学表达式模块
+
+* Number : Number模块
+
+* Object : Object模块
+
+* String : String模块
+
+* Util : 工具类模块
+
+## 代码解析目录
+
 ### Array
 
 * [slice.js](https://github.com/JILL1231/readLodash/blob/master/Array/slice.js) : 裁剪数组array，从 start 位置开始到end结束，但不包括 end 本身的位置
