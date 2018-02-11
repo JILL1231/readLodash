@@ -46,3 +46,5 @@
 * [isLength.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isLength.js) : 检查 value 是否为有效的类数组长度
 
 * [isArrayLike.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isArrayLike.js) : 检查 value 是否是类数组。 如果一个值被认为是类数组，那么它不是一个函数，并且value.length是个整数，大于等于 0，小于或等于 Number.MAX_SAFE_INTEGER
+
+* [isArrayLikeObject.js](https://github.com/JILL1231/readLodash/blob/master/Lang/isArrayLikeObject.js) : 这个方法类似_.isArrayLike。除了它还检查value是否是个对象
